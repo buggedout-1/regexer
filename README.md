@@ -3,10 +3,10 @@
 A simple Go application to process URLs and search for specific words in HTTP responses.
 
 ## Install
-git clone https://github.com/buggedout-1/regexer.git  
-cd regexer  
-go build regexer.go  
-sudo cp regexer /usr/local/bin 
+`git clone https://github.com/buggedout-1/regexer.git`  
+`cd regexer`  
+`go build regexer.go`  
+`sudo cp regexer /usr/local/bin` 
 
 
 ## Usage
